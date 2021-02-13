@@ -1,0 +1,27 @@
+{
+  "name": "taka-client",
+  "version": "0.1.0",
+  "description": "A Taka Client",
+  "main": "src/main.js",
+  "scripts": {
+    "tauri": "tauri",
+    "snowpack": "snowpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket143/taka-client.git"
+  },
+  "author": "Sanket Chaudhari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanket143/taka-client/issues"
+  },
+  "homepage": "https://github.com/sanket143/taka-client#readme",
+  "dependencies": {
+    "tauri": "^0.14.1"
+  },
+  "devDependencies": {
+    "sirv-cli": "^1.0.11",
+    "snowpack": "^3.0.11"
+  }
+}

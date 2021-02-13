@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "tauri/api/event": "./tauri/api/event.js"
+  }
+}
